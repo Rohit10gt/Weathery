@@ -3,8 +3,9 @@
 A Flutter project.
 
 ## Getting Started
-![WhatsApp Image 2024-01-27 at 20 40 52_6fd57b63](https://github.com/Rohit10gt/Weathery/assets/122485591/37e512d5-fe6a-4555-88b9-8507d13e1208)
-![WhatsApp Image 2024-01-27 at 20 40 53_cada818c](https://github.com/Rohit10gt/Weathery/assets/122485591/a643675b-a67b-4138-8e9a-cfc337c3ce71)
+![WhatsApp Image 2024-01-27 at 20-portrait](https://github.com/Rohit10gt/Weathery/assets/122485591/51bbbadb-e966-486e-b6a8-f9cb043e42f9)
+![WhatsApp Image 2024-01-2k7 at 20-portrait](https://github.com/Rohit10gt/Weathery/assets/122485591/2ec8090b-9b3e-400a-8320-2632d922698e)
+
 
 
 This project is a starting point for a Flutter application.
