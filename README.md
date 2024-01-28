@@ -7,12 +7,12 @@ Explore the potential of Flutter to create Weathery, a sleek and efficient weath
 
 Key Features:
 
-Real-Time Weather Data: Utilize APIs to fetch and display precise weather information, ensuring users are always informed about current conditions.
+**Real-Time Weather Data**: Utilize APIs to fetch and display precise weather information, ensuring users are always informed about current conditions.
 
-Intuitive UI/UX: Benefit from a well-crafted, user-friendly interface that enhances the overall user experience. Navigating through weather details becomes seamless and enjoyable.
+**Intuitive UI/UX**: Benefit from a well-crafted, user-friendly interface that enhances the overall user experience. Navigating through weather details becomes seamless and enjoyable.
 
-Android-Centric Design: Tailored specifically for Android devices, Weathery optimizes the Flutter framework for a consistent and responsive experience on Android platforms.
+**Android-Centric Design**: Tailored specifically for Android devices, Weathery optimizes the Flutter framework for a consistent and responsive experience on Android platforms.
 
-Comprehensive Weather Reports: Access detailed weather reports, including temperature, humidity, wind speed, and more, empowering users with comprehensive insights.
+**Comprehensive Weather Reports**: Access detailed weather reports, including temperature, humidity, wind speed, and more, empowering users with comprehensive insights.
 
-Customizable Settings: Tailor Weathery to individual preferences with customizable settings, allowing users to prioritize the information most relevant to them.
+**Customizable Settings**: Tailor Weathery to individual preferences with customizable settings, allowing users to prioritize the information most relevant to them.
